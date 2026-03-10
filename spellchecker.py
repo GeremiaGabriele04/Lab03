@@ -5,6 +5,8 @@ import multiDictionary as md
 class SpellChecker:
 
     def __init__(self):
+
+
         pass
 
     def handleSentence(self, txtIn, language):
